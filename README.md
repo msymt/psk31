@@ -44,7 +44,7 @@ Sampling Rate.
 Signal Frequency. This sound example should be 1000.0.     
 This figure shows the spectral distribution of a sample sound file. There is a peak around 1000Hz.
 
-![](2021-07-17.png)
+![](./img/2021-07-17.png)
       
 ## Complex Plane and Value Assignment
 Modify this line if you want to change the value assignment for the complex plane.      
@@ -58,4 +58,4 @@ This program assumes 8KHz sampling, mono, 8bit quantization, and no sign.
  python psk31.py > psk31_sample8k.csv
 ~~~
 Demodulation example
-![](2021-07-16.png)
+![](./img/2021-07-16.png)
