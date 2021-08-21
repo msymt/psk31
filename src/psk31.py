@@ -7,6 +7,7 @@ def main():
 	smp= 8000           # Sampling Rate
 	FQ= smp/1000.0      # Signal Frequency
 	wind= 40            # window
+	baud_rate = 31.25   # psk31 baud rate
 	waveFile = wave.open(fname, 'r')
 
 	q=[];i=[]
